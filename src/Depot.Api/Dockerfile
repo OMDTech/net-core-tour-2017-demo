@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:latest
+FROM microsoft/dotnet:4.8
 COPY . /app
 WORKDIR /app
  
